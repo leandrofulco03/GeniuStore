@@ -1,0 +1,11 @@
+.list-cart-container {
+    padding: 3rem;
+    margin-top: 3rem;
+}
+.link-light {
+    text-decoration: none;
+}
+
+.total-price-cart span {
+    font-size: 3rem;
+}

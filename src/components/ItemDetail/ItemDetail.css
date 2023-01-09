@@ -1,0 +1,42 @@
+.product_detail h2 {
+    margin: 3rem;
+}
+
+.item-description .text_danger{
+    color: #ff9f40;
+}
+
+.item_detail_price {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.credit_promo img {
+    margin-right: 0.5rem;
+}
+.credit_promo a {
+    text-decoration: none;
+}
+
+.buy_section {
+    background-color: #e3e3e3;
+    margin-top: 2rem;
+    padding: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.count-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.count-item p {
+    margin: .5rem;
+}
+
+.btn_secondary {
+    background-color: #26127d;
+    border: none;
+}
